@@ -1,0 +1,16 @@
+Change Component Comment : Designator=R6 Old Comment=10K New Comment=3K
+Change Component Comment : Designator=R7 Old Comment=10K New Comment=3K
+Added Pin To Net: NetName=PA5 Pin=P3-30
+Added Pin To Net: NetName=PA5 Pin=U1-30
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=P3-29
+Added Pin To Net: NetName=PA6 Pin=U1-31
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=P3-28
+Added Pin To Net: NetName=PA7 Pin=U1-32
+Added Net: Name=PA7
+Added Member To Class: ClassName=原理图 Member=Component C3 0.1uF
+Added Member To Class: ClassName=原理图 Member=Component C4 10uF
+Added Member To Class: ClassName=原理图 Member=Component C15 0.1uF
+Added Member To Class: ClassName=原理图 Member=Component L1 10uh
+Added Room: Name=原理图

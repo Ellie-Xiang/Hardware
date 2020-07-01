@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC Pin=C13-1
+Removed Pin From Net: NetName=VCC Pin=C14-1
+Removed Pin From Net: NetName=VCC Pin=C15-1
+Removed Pin From Net: NetName=VCC Pin=C16-1
+Removed Pin From Net: NetName=VCC Pin=C17-1
+Removed Pin From Net: NetName=VCC Pin=C18-1
+Added Pin To Net: NetName=3.3V Pin=C13-1
+Added Pin To Net: NetName=3.3V Pin=C14-1
+Added Pin To Net: NetName=3.3V Pin=C15-1
+Added Pin To Net: NetName=3.3V Pin=C16-1
+Added Pin To Net: NetName=3.3V Pin=C17-1
+Added Pin To Net: NetName=3.3V Pin=C18-1
+Added Room: Name=‘≠¿ÌÕº

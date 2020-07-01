@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-A1
+Removed Pin From Net: NetName=+5 Pin=U2-A4
+Removed Pin From Net: NetName=PA12 Pin=U2-A6
+Removed Pin From Net: NetName=PA11 Pin=U2-A7
+Removed Pin From Net: NetName=+5 Pin=U2-A9
+Removed Pin From Net: NetName=GND Pin=U2-A12
+Removed Pin From Net: NetName=GND Pin=U2-B1
+Removed Pin From Net: NetName=+5 Pin=U2-B4
+Removed Pin From Net: NetName=PA12 Pin=U2-B6
+Removed Pin From Net: NetName=PA11 Pin=U2-B7
+Removed Pin From Net: NetName=+5 Pin=U2-B9
+Removed Pin From Net: NetName=GND Pin=U2-B12
+Removed Member From Class: ClassName=原理图 Member=U2
+Added Room: Name=原理图

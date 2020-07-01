@@ -1,0 +1,19 @@
+Added Component: Designator=U2(Type-C)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-A1
+Added Pin To Net: NetName=+5 Pin=U2-A4
+Added Pin To Net: NetName=PA12 Pin=U2-A6
+Added Pin To Net: NetName=PA11 Pin=U2-A7
+Added Pin To Net: NetName=+5 Pin=U2-A9
+Added Pin To Net: NetName=GND Pin=U2-A12
+Added Pin To Net: NetName=GND Pin=U2-B1
+Added Pin To Net: NetName=+5 Pin=U2-B4
+Added Pin To Net: NetName=PA12 Pin=U2-B6
+Added Pin To Net: NetName=PA11 Pin=U2-B7
+Added Pin To Net: NetName=+5 Pin=U2-B9
+Added Pin To Net: NetName=GND Pin=U2-B12
+Added Member To Class: ClassName=原理图 Member=Component U2 Type-C
+Added Room: Name=原理图
