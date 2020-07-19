@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=I2C1_SCL Pin=P6-3
+Added Pin To Net: NetName=I2C1_SDA Pin=P6-4
+Added Pin To Net: NetName=PC2 Pin=P3-37
+Added Pin To Net: NetName=PC2 Pin=U1-17
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=P3-36
+Added Pin To Net: NetName=PC3 Pin=U1-18
+Added Net: Name=PC3

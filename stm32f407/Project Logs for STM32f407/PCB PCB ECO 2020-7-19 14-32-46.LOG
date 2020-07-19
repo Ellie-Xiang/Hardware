@@ -1,0 +1,2 @@
+Change Net Name : Old Net Name=I2C1_SCL New Net Name=OLED_SCL
+Change Net Name : Old Net Name=I2C1_SDA New Net Name=OLED_SDA

@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+E:\≥§ø’”˘∑Á\”≤º˛\Hardware\stm32f407\Project Outputs for STM32f407\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/07/20
+Time:       14:41
+Revision:   ce2e8c1c1be40a7dc178b8f790011d883a176808
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer    Footprint         Center-X(mil) Center-Y(mil) Rotation 
+L1         10uh          TopLayer 0805_I            1690.000      1467.793      90       
+C15        0.1uF         TopLayer 0805_C            1690.000      1265.039      270      
+C4         10uF          TopLayer 0805_C            2053.622      1467.792      270      
+C3         0.1uF         TopLayer 0805_C            1895.000      1467.791      90       
+R7         3K            TopLayer 0805_R            2053.622      683.384       270      
+R6         3K            TopLayer 0805_R            400.079       1039.690      360      
+R5         1.5K          TopLayer 0805_R            1965.894      404.080       270      
+R3         10K           TopLayer 0805_R            1798.285      404.081       90       
+R2         10K           TopLayer 0805_R            965.985       1479.162      180      
+R1         10K           TopLayer 0805_R            968.202       1580.436      180      
+U3         AMS1117_3.3   TopLayer SOT-223           498.422       461.771       180      
+U1         STM32F407VE   TopLayer QFP-100_14x14x05P 1155.000      970.002       90       
+S1         SW-2          TopLayer SWT10*6_P4        611.258       1528.006      90       
+RST1       ∞¥º¸            TopLayer SWT3*4            1629.238      400.002       270      
+P7         ≈≈’Î6P          TopLayer HDR6              2310.000      610.000       90       
+P6         ≈≈’Î4P          TopLayer HDR4              2310.001      1185.001      270      
+P4         ≈≈’Î2*2P        TopLayer HDR2X2            98.426        1265.000      180      
+P3         ≈≈’Î2*40P       TopLayer HDR2X20           1195.000      1871.576      360      
+P2         ≈≈’Î2*40P       TopLayer HDR2X20           1195.000      98.426        360      
+P1         "SWD & USART" TopLayer HDR2X4            98.426        885.000       270      
+OS1        æß’Ò            TopLayer 5032_2P           1976.261      987.756       180      
+K1         ∞¥º¸            TopLayer SWT3*4            1531.852      1478.400      270      
+D4         LED           TopLayer 0805_L            1900.000      682.223       90       
+D3         LED           TopLayer 0805_L            400.079       891.262       180      
+C18        0.1uF         TopLayer 0805_C            265.878       602.556       360      
+C17        0.1uF         TopLayer 0805_C            665.000       770.039       90       
+C16        0.1uF         TopLayer 0805_C            664.454       1299.999      90       
+C14        0.1uF         TopLayer 0805_C            1690.000      1060.040      270      
+C13        0.1uF         TopLayer 0805_C            1690.000      836.105       270      
+C12        0.1uF         TopLayer 0805_C            1210.000      404.961       270      
+C11        10uF          TopLayer 0805_C            869.870       503.464       270      
+C10        0.1uF         TopLayer 0805_C            194.961       495.000       180      
+C9         10uF          TopLayer 0805_C            194.961       336.536       360      
+C8         22pF          TopLayer 0805_C            1895.000      1226.850      270      
+C7         22pF          TopLayer 0805_C            2053.622      1224.960      270      
+C6         0.1uF         TopLayer 0805_C            1480.001      445.590       270      
+C2         2.2uF         TopLayer 0805_C            169.305       1546.195      270      
+C1         2.2uF         TopLayer 0805_C            856.449       1360.000      360      

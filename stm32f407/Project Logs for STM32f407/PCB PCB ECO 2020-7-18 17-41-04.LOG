@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=PA9 Pin=P7-4
+Added Pin To Net: NetName=PA10 Pin=P7-5
+Change Net Name : Old Net Name=PA9 New Net Name=BT_RX
+Change Net Name : Old Net Name=PA10 New Net Name=BT_TX
+Added Pin To Net: NetName=PC14 Pin=U1-8
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=U1-9
+Added Net: Name=PC15
