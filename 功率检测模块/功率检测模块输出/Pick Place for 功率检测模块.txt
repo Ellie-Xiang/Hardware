@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+E:\长空御风\硬件\功率检测\功率检测模块\Project Outputs for 功率检测模块\Pick Place for 功率检测模块.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/07/20
+Time:       15:18
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation 
+C16        0.1uF         TopLayer 0805             692.461       886.000       180      
+C15        0.1uF         TopLayer 0805             1268.961      427.000       180      
+C14        0.1uF         TopLayer 0805             841.000       337.961       270      
+R11        3.9K          TopLayer 0805             2657.000      1883.961      90       
+D3         LED           TopLayer 0805             2507.000      1883.961      90       
+U1         AMS1117_3.3   TopLayer SOT-223          2044.000      1970.000      270      
+R8         10K           TopLayer 0805             1030.000      1064.961      90       
+R5         75K           TopLayer 0805             1450.000      774.961       270      
+R10        10K           TopLayer 0805             1055.000      209.960       270      
+R9         3.9K          TopLayer 0805             2019.961      765.000       180      
+R6         7K5           TopLayer 0805             1449.000      516.961       90       
+R4         10K           TopLayer 0805             1410.000      209.961       90       
+R7         1.5K          TopLayer 0805             1620.039      235.000       180      
+R3         18K           TopLayer 0805             969.961       1795.000      0        
+R2         43K           TopLayer 0805             1400.000      1795.000      0        
+R1         12K           TopLayer 0805             1185.000      1795.000      0        
+C11        1nF           TopLayer 0805             1710.000      820.000       270      
+C10        0.1uF         TopLayer 0805             1715.000      520.000       90       
+C9         0.1uF         TopLayer 0805             1235.000      209.960       270      
+C8         0.1uF         TopLayer 0805             585.000       635.000       270      
+C6         0.1uF         TopLayer 0805             1955.000      1645.039      90       
+C5         10uF          TopLayer 0805             2120.000      1645.039      90       
+C4         0.1uF         TopLayer 0805             2550.000      1645.039      90       
+C3         10uF          TopLayer 0805             2390.000      1645.039      90       
+C1         3.3nF         TopLayer 0805             1185.039      2030.000      0        
+U3         STM32F103C8T6 TopLayer STM-LQFP48_L     1000.000      640.000       0        
+C13        22pF          TopLayer 0805             500.000       285.000       90       
+C12        22pF          TopLayer 0805             295.000       285.000       90       
+U2         LM2596S-ADJ   TopLayer TO-263-5         590.000       1862.244      270      
+Y1         晶振            TopLayer 5032_2P          327.205       633.740       270      
+U5         ACS712-5A     TopLayer SOP-8_208mil     2140.000      415.000       90       
+U4         SWD&USART     TopLayer HDR2X4           2695.000      366.031       270      
+RST1       按键            TopLayer SWT3*4           688.000       272.291       270      
+P2         OLED          TopLayer HDR6             1651.032      2150.000      360      
+P3         接线端子          TopLayer 接线端子             2685.000      1186.575      90       
+P1         接线端子          TopLayer 接线端子             155.000       1186.575      270      
+L1         470uH         TopLayer 电感               1535.433      1303.150      180      
+D2         LED           TopLayer 0805             2380.000      805.039       270      
+D1         1N5822        TopLayer SMA(DO-214AC)_S2 1035.000      1357.063      270      
+C7         220uF         TopLayer 电解电容10*10.5      2100.000      1225.000      270      
+C2         100uF         TopLayer 电解电容8*10.5       685.000       1235.000      270      

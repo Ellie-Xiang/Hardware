@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U5 Old Footprint=TO-263-5 New Footprint=SOP-8_208mil
+Added Pin To Net: NetName=NetC11_1 Pin=U5-6
+Added Pin To Net: NetName=ADC2_IN2 Pin=U5-7
+Added Pin To Net: NetName=5V Pin=U5-8

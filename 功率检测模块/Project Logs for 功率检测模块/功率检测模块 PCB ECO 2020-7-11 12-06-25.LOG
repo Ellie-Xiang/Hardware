@@ -1,0 +1,7 @@
+Added Component: Designator=U2(TO-263-5)
+Added Pin To Net: NetName=VIN+ Pin=U2-1
+Added Pin To Net: NetName=NetD1_2 Pin=U2-2
+Added Pin To Net: NetName=VIN- Pin=U2-3
+Added Pin To Net: NetName=NetC1_1 Pin=U2-4
+Added Pin To Net: NetName=VIN- Pin=U2-5
+Added Member To Class: ClassName=¹¦ÂÊ¼ì²âÄ£¿é Member=Component U2 LM2596S-ADJ

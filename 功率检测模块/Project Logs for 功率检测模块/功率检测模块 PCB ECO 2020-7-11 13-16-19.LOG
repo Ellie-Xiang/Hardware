@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=ADC1_IN1 Pin=R5-1
+Removed Pin From Net: NetName=VIN+ Pin=R6-2
+Removed Pin From Net: NetName=ADC1_IN1 Pin=R8-1
+Removed Pin From Net: NetName=VIN- Pin=R8-2
+Removed Pin From Net: NetName=VIN- Pin=R9-1
+Removed Pin From Net: NetName=VIN- Pin=R10-2
+Removed Member From Class: ClassName=功率检测模块 Member=R11
+Removed Member From Class: ClassName=功率检测模块 Member=R12
+Removed Member From Class: ClassName=功率检测模块 Member=R13
+Change Component Comment : Designator=R10 Old Comment=1.5K New Comment=7K5
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=R4 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R4
+Change Component Designator: OldDesignator=R10 NewDesignator=R6
+Change Component Designator: OldDesignator=R11 NewDesignator=R8
+Change Component Designator: OldDesignator=R12 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R10
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Added Pin To Net: NetName=VIN- Pin=R6-1
+Added Pin To Net: NetName=ADC1_IN1 Pin=R6-2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR8_1
+Added Room: Name=功率检测模块

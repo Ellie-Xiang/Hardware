@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Y1 Old Footprint=SMD-5032_4P New Footprint=5032_2P
+Change Component Comment : Designator=Y1 Old Comment=8M New Comment=晶振
+Change Component Library : Designator=Y1 Old Library=功率检测模块.SchLib New Library=元件库.SchLib

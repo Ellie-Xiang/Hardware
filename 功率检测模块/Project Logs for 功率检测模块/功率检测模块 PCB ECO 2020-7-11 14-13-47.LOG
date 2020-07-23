@@ -1,0 +1,8 @@
+Added Member To Class: ClassName=功率检测模块 Member=Component P2 OLED
+Added Member To Class: ClassName=功率检测模块 Member=Component R6 7K5
+Added Member To Class: ClassName=功率检测模块 Member=Component R7 1.5K
+Added Member To Class: ClassName=功率检测模块 Member=Component R8 10K
+Added Member To Class: ClassName=功率检测模块 Member=Component R9 3.9K
+Added Member To Class: ClassName=功率检测模块 Member=Component R10 10K
+Added Member To Class: ClassName=功率检测模块 Member=Component U4 SWD&USART
+Added Room: Name=功率检测模块

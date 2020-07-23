@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Variant [[No Variations]] of Project [功率检测模块.PrjPcb]
+   Generated File[Assembly Testpoint Report for 功率检测模块.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:20:10 On 2020/7/20

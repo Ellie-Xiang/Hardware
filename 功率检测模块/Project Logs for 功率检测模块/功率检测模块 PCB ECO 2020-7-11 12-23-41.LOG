@@ -1,0 +1,72 @@
+Added Component: Designator=C1(0805)
+Added Component: Designator=C3(0805)
+Added Component: Designator=C4(0805)
+Added Component: Designator=C5(0805)
+Added Component: Designator=C6(0805)
+Added Component: Designator=C8(0805)
+Added Component: Designator=C9(0805)
+Added Component: Designator=C10(0805)
+Added Component: Designator=C11(0805)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=R9(0805)
+Added Component: Designator=R10(0805)
+Added Component: Designator=R12(0805)
+Added Component: Designator=R13(0805)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=VIN- Pin=C3-1
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Pin To Net: NetName=VIN- Pin=C4-1
+Added Pin To Net: NetName=3.3V Pin=C4-2
+Added Pin To Net: NetName=VIN- Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=VIN- Pin=C6-1
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=VIN- Pin=C8-1
+Added Pin To Net: NetName=3.3V Pin=C8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=VIN- Pin=C9-2
+Added Pin To Net: NetName=5V Pin=C10-1
+Added Pin To Net: NetName=VIN- Pin=C10-2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=VIN- Pin=C11-2
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=+5 Pin=R2-2
+Added Pin To Net: NetName=VIN- Pin=R3-1
+Added Pin To Net: NetName=NetC1_1 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=VIN- Pin=R4-2
+Added Pin To Net: NetName=VIN- Pin=R7-1
+Added Pin To Net: NetName=BOOT1 Pin=R7-2
+Added Pin To Net: NetName=VIN- Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=R10-1
+Added Pin To Net: NetName=VIN- Pin=R10-2
+Added Pin To Net: NetName=NetD2_2 Pin=R12-1
+Added Pin To Net: NetName=VIN- Pin=R12-2
+Added Pin To Net: NetName=3.3V Pin=R13-1
+Added Pin To Net: NetName=NetC9_1 Pin=R13-2
+Added Member To Class: ClassName=功率检测模块 Member=Component C1 3.3nF
+Added Member To Class: ClassName=功率检测模块 Member=Component C3 10uF
+Added Member To Class: ClassName=功率检测模块 Member=Component C4 0.1uF
+Added Member To Class: ClassName=功率检测模块 Member=Component C5 10uF
+Added Member To Class: ClassName=功率检测模块 Member=Component C6 0.1uF
+Added Member To Class: ClassName=功率检测模块 Member=Component C8 0.1uF
+Added Member To Class: ClassName=功率检测模块 Member=Component C9 0.1uF
+Added Member To Class: ClassName=功率检测模块 Member=Component C10 0.1uF
+Added Member To Class: ClassName=功率检测模块 Member=Component C11 1nF
+Added Member To Class: ClassName=功率检测模块 Member=Component R1 12K
+Added Member To Class: ClassName=功率检测模块 Member=Component R2 43K
+Added Member To Class: ClassName=功率检测模块 Member=Component R3 18K
+Added Member To Class: ClassName=功率检测模块 Member=Component R4 1.5K
+Added Member To Class: ClassName=功率检测模块 Member=Component R7 10K
+Added Member To Class: ClassName=功率检测模块 Member=Component R9 1.5K
+Added Member To Class: ClassName=功率检测模块 Member=Component R10 1.5K
+Added Member To Class: ClassName=功率检测模块 Member=Component R12 3.9K
+Added Member To Class: ClassName=功率检测模块 Member=Component R13 10K

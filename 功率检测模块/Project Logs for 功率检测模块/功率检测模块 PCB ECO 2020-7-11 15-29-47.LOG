@@ -1,0 +1,5 @@
+Added Component: Designator=R5(0805)
+Added Pin To Net: NetName=VIN+ Pin=R5-1
+Added Pin To Net: NetName=ADC1_IN1 Pin=R5-2
+Added Member To Class: ClassName=功率检测模块 Member=Component R5 75K
+Added Room: Name=功率检测模块

@@ -1,0 +1,5 @@
+Added Component: Designator=R8(0805)
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Member To Class: ClassName=功率检测模块 Member=Component R8 10K
+Added Room: Name=功率检测模块
