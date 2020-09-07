@@ -1,0 +1,42 @@
+Added Component: Designator=H7(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=H8(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Net: Name=CURRENT
+Added Pin To Net: NetName=GND Pin=H7-1
+Added Pin To Net: NetName=GND Pin=H8-1
+Added Net: Name=GND
+Added Net: Name=NetC7_1
+Added Net: Name=NetC8_1
+Added Net: Name=NetC8_2
+Added Net: Name=NetC10_2
+Added Net: Name=NetC11_2
+Added Net: Name=NetC13_2
+Added Net: Name=NetD1_A
+Added Net: Name=NetF1_2
+Added Net: Name=NetL1_2
+Added Net: Name=NetR1_2
+Added Net: Name=NetR2_2
+Added Net: Name=NetR4_2
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=SCL Pin=H7-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=H7-4
+Added Net: Name=SDA
+Added Pin To Net: NetName=SWCLK Pin=H8-3
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=H8-4
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VCC 3.3V Pin=H7-2
+Added Pin To Net: NetName=VCC 3.3V Pin=H8-2
+Added Net: Name=VCC 3.3V
+Added Net: Name=VCC 5.0V
+Added Net: Name=VOLTAGE
+Added Net: Name=XCLK0
+Added Net: Name=XCLK1
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

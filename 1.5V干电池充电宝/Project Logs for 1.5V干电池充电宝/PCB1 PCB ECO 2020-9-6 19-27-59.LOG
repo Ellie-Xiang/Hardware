@@ -1,0 +1,107 @@
+Added Component: Designator=C14(CAP-SMD_BD12.5-L13.0-W13.0-FD)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Lelon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "VE-331M1E0810-TRO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C249523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VE-331M1E0810-TRO"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP-SMD_BD6.3-L6.6-W6.6-RD)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Lelon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "VE-331M1E0810-TRO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C249523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "VE-331M1E0810-TRO"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SMA_L4.4-W2.8-LS5.4-RD)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "DFLZ10-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C151371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "DFLZ10-7"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SMA_L4.4-W2.8-LS5.4-RD)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "DFLZ10-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C151371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "DFLZ10-7"; VariantName = "[No Variations]"
+Added Component: Designator=D7(DO-214AC_L4.3-W2.7-LS5.3-FD)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "DFLZ10-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C151371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "DFLZ10-7"; VariantName = "[No Variations]"
+Added Component: Designator=D8(SMA_L4.4-W2.8-LS5.4-RD)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "DFLZ10-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C151371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "DFLZ10-7"; VariantName = "[No Variations]"
+Added Component: Designator=U5(HTSSOP-28_L9.8-W4.5-P0.65-LS6.6-BL-EP)
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "LM5175PWPT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C181517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "LM5175PWPT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VISNS Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=ISNS- Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=VISNS Pin=D3-2
+Added Pin To Net: NetName=SW1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=BOOT1 Pin=D7-1
+Added Pin To Net: NetName=VCC Pin=D7-2
+Added Pin To Net: NetName=BOOT2 Pin=D8-1
+Added Pin To Net: NetName=VCC Pin=D8-2
+Added Pin To Net: NetName=NetR6_1 Pin=U5-1
+Added Pin To Net: NetName=ISNS- Pin=U5-2
+Added Pin To Net: NetName=VISNS Pin=U5-3
+Added Pin To Net: NetName=NetR13_2 Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=NetR18_2 Pin=U5-6
+Added Pin To Net: NetName=NetC28_2 Pin=U5-7
+Added Pin To Net: NetName=SS Pin=U5-8
+Added Pin To Net: NetName=COMP Pin=U5-9
+Added Pin To Net: NetName=GND Pin=U5-10
+Added Pin To Net: NetName=FB Pin=U5-11
+Added Pin To Net: NetName=Vout Pin=U5-12
+Added Pin To Net: NetName=ISNS- Pin=U5-13
+Added Pin To Net: NetName=ISNS+ Pin=U5-14
+Added Pin To Net: NetName=NetC30_1 Pin=U5-15
+Added Pin To Net: NetName=NetC30_2 Pin=U5-16
+Added Pin To Net: NetName=PGOOD Pin=U5-17
+Added Pin To Net: NetName=SW2 Pin=U5-18
+Added Pin To Net: NetName=HDRV2 Pin=U5-19
+Added Pin To Net: NetName=BOOT2 Pin=U5-20
+Added Pin To Net: NetName=LDRV2 Pin=U5-21
+Added Pin To Net: NetName=GND Pin=U5-22
+Added Pin To Net: NetName=VCC Pin=U5-23
+Added Pin To Net: NetName=Vout Pin=U5-24
+Added Pin To Net: NetName=NetQ4_1 Pin=U5-25
+Added Pin To Net: NetName=BOOT1 Pin=U5-26
+Added Pin To Net: NetName=NetQ2_1 Pin=U5-27
+Added Pin To Net: NetName=SW1 Pin=U5-28
+Added Member To Class: ClassName=Sheet1 Member=Component C14 68uF
+Added Member To Class: ClassName=Sheet1 Member=Component C23 56uF
+Added Member To Class: ClassName=Sheet1 Member=Component D3 BYS10-45-E3
+Added Member To Class: ClassName=Sheet1 Member=Component D6 BYS10-45-E3
+Added Member To Class: ClassName=Sheet1 Member=Component D7 CD214A-B240LLF
+Added Member To Class: ClassName=Sheet1 Member=Component D8 CD214A-B240LLF
+Added Member To Class: ClassName=Sheet1 Member=Component U5 LM5175PWPT

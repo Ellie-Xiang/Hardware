@@ -1,0 +1,17 @@
+Added Component: Designator=U4(DIP-8_L9.8-W6.6-P2.54-LS7.6-BL)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "HGSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MC34063N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C444399"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MC34063N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC25_1 Pin=U4-1
+Added Pin To Net: NetName=NetD4_2 Pin=U4-2
+Added Pin To Net: NetName=NetC19_2 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetR14_2 Pin=U4-5
+Added Pin To Net: NetName=NetC25_1 Pin=U4-6
+Added Pin To Net: NetName=NetC25_1 Pin=U4-7
+Added Pin To Net: NetName=NetC25_1 Pin=U4-8
+Added Member To Class: ClassName=Sheet1 Member=Component U4 MC34063N
