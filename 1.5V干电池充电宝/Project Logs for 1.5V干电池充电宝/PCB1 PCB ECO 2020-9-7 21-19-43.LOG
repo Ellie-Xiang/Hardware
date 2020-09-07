@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=C12 Old Footprint=0603_C New Footprint=0805_C
+Change Component Footprint: Designator=C29 Old Footprint=0603_C New Footprint=0805_C
+Change Component Footprint: Designator=C30 Old Footprint=0603_C New Footprint=0805_C
+Change Component Footprint: Designator=R1 Old Footprint=0603_R New Footprint=0805_R
+Change Component Footprint: Designator=R7 Old Footprint=1206_R New Footprint=0805_R
+Change Component Footprint: Designator=R19 Old Footprint=1210 New Footprint=0805_R
+Added Member To Class: ClassName=Sheet1 Member=Component C19 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C21 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C23 300pF
+Added Member To Class: ClassName=Sheet1 Member=Component C26 150pF
+Added Member To Class: ClassName=Sheet1 Member=Component C28 100UF
+Added Member To Class: ClassName=Sheet1 Member=Component D4 CDBK0520
+Added Member To Class: ClassName=Sheet1 Member=Component H8 1*2 5.08mm
+Added Member To Class: ClassName=Sheet1 Member=Component L2 15uH
+Added Member To Class: ClassName=Sheet1 Member=Component R15 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R17 1K
+Added Room: Name=Sheet1

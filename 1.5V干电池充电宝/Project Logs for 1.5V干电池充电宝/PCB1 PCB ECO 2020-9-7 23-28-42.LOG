@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=NetC6_2 Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=FB Pin=R12-2
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-1
+Removed Pin From Net: NetName=NetQ2_3 Pin=U1-2
+Removed Pin From Net: NetName=NetQ2_3 Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=NetL1_2 Pin=U1-5
+Removed Pin From Net: NetName=NetC6_2 Pin=U1-6
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Removed Member From Class: ClassName=Sheet1 Member=R12
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Change Component Footprint: Designator=L2 Old Footprint=7*7*4MM 10UH New Footprint=IND-SMD_L12.5-W12.5_SWRH1207B
+Change Component Footprint: Designator=L3 Old Footprint=7*7*4MM 10UH New Footprint=IND-SMD_L12.5-W12.5_SWRH1207B
+Added Component: Designator=R*?(RES-ADJ-TH_3P-L9.5-W4.9-P2.50-L_3296W)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Chengdu Guosheng Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "3296W-1-100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C118900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance(Ohms)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "3296W-1-100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R*?-1
+Added Pin To Net: NetName=FB Pin=R*?-2
+Added Pin To Net: NetName=FB Pin=R*?-3
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC7_2
+Added Member To Class: ClassName=Sheet1 Member=Component R*? 50K
+Added Room: Name=Sheet1
