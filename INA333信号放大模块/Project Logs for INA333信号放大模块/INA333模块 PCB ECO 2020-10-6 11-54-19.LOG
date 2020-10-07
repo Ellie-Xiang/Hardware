@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VIN- Pin=H1-3
+Removed Pin From Net: NetName=VIN+ Pin=H1-4
+Change Component Comment : Designator=R3 Old Comment=100 New Comment=10k
+Change Component Comment : Designator=R4 Old Comment=100 New Comment=10k
+Added Pin To Net: NetName=VIN+ Pin=H1-3
+Added Pin To Net: NetName=VIN- Pin=H1-4
+Added Room: Name=INA333Ä£¿é

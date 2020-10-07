@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Variant [[No Variations]] of Project [INA333信号放大模块.PrjPcb]
+   Generated File[Assembly Testpoint Report for INA333模块.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:08:03 On 2020/10/7
